@@ -3,7 +3,11 @@
 
 Express Backend with
   - axios
-  
+  - nodemon
+  - cors
+  - dotenv
+  - express
+  - mysql
 Vue Frontend with
   - oruga
   - tailwind
